@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Miguel Archanjo</h1>
 
-<h3 align="center">**About Me** 💡
+**About Me** 💡
 
 - 🎓 I'm graduated in **Nutrition** and **physical education** and I work remotely with clients in different countries
 - 💻 I'm currently transitioning to **fullstack web development**, with the goal of working remotely for international
