@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Miguel Archanjo</h1>👋
 
 ###💡 About Me
 
