@@ -6,7 +6,7 @@
 - 💻 I'm currently transitioning to **fullstack web development**, with the goal of working remotely for international teams. Technology is something that also fascinates me, and this global digital shift inspired me to learn and grow as a developer as well
 - 🌱 I'm currently learning **JavaScript, HTML and CSS**
 - 🌍 Based in **Rio de Janeiro, Brazil**
-- 🏄 Surf & kitesurf enthusiast | Remote lifestyle advocate
+- 🏄 Surf, kitesurf and Snowboard enthusiast | Remote lifestyle advocate
 
 ---
 
