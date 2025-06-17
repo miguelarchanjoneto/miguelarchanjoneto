@@ -1,41 +1,53 @@
 # 👨‍💻 Miguel Archanjo
 
-**Fullstack Developer in Progress** | Nutritionist & Fitness Coach | Remote Work Enthusiast
+**Python Learner | Future Data Scientist** | Nutritionist & Fitness Coach | Remote Work Enthusiast
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 Graduated in **Nutrition & Physical Education**, with years of experience coaching international clients.
-- 🔁 Currently transitioning into **fullstack web development**, with a strong focus on back-end and APIs.
-- 💡 I bring discipline, performance optimization and client-first thinking from my health background — now applied to software.
-- 🛠️ Currently learning: **JavaScript**, **Node.js**, **Express**, **Git**, **SQL**, **AWS**, **System Design**
+- 🎓 Background in **Nutrition** and **Physical Education**, with years of experience coaching international clients in health and performance.
+- 🧑‍💻 Currently studying **Python**, aiming to grow into the field of **Data Science** and **Machine Learning**.
+- 💡 Bringing discipline, consistency and data-driven thinking from my health background — now aplicando ao mundo da tecnologia.
+- 🛠️ Currently learning: **Python (logic, functions, loops, conditionals, data structures)**, with plans to advance into **Data Analysis**, **Pandas**, **NumPy**, and **Machine Learning** soon.
 - 🌍 Based in **Rio de Janeiro, Brazil** | Fluent in English 🇺🇸
-- 🏄 Surf, kitesurf and snowboard enthusiast | Advocate of the remote lifestyle
+- 🏄 Surf, kitesurf and snowboard enthusiast | Advocate of the remote lifestyle and international work.
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects (Python Learning Phase)
 
 | Project | Description | Tech Stack | Status |
 |--------|-------------|------------|--------|
-| [Client Checklist](#) | Customizable checklist system for online coaching clients | Node.js, Express, EJS | 🚧 In Progress |
-| [To-do App](#) | Simple task manager with local storage | HTML, CSS, JavaScript | ✅ Completed |
-| [Portfolio Site](#) | My personal developer portfolio | React, TailwindCSS | ⏳ Coming Soon |
+| [Water Intake Calculator](#) | Simple CLI tool to calculate recommended water intake based on user weight | Python | ✅ Completed |
+| [Attendance Control System](#) | Console app for tracking student absences in a gym setting | Python | ✅ Completed |
+| [Conditional and Loop Challenges](#) | Small exercises focused on improving logic and control flow understanding | Python | ✅ Ongoing |
+| [Mini CLI Games](#) | Building small command-line games for learning practice | Python | 🚧 In Progress |
 
-> More projects coming soon focused on REST APIs, authentication and deployment (CI/CD, AWS).
+> More projects coming as I advance into **data manipulation** and **analysis tasks**.
+
+---
+
+## 🎯 Current Learning Path
+
+- ✅ Python Basics: Variables, conditionals, loops, functions
+- ✅ Problem solving and logic exercises
+- ⏳ Lists, dictionaries and data manipulation
+- ⏳ File handling (reading and writing data)
+- 🔜 Pandas and NumPy (Data Analysis)
+- 🔜 Data Visualization (Matplotlib, Seaborn)
+- 🔜 Introduction to Machine Learning (scikit-learn)
 
 ---
 
 ## 📫 Let's Connect
 
 - 📬 [consultoriamiguelarchanjo@gmail.com](mailto:consultoriamiguelarchanjo@gmail.com)
-- 💼 [LinkedIn (coming soon)](#)
 - 📸 [Instagram @archanjoteam](https://instagram.com/archanjoteam)
 
 ---
 
-## 📊 GitHub Stats (once active)
+## 📊 GitHub Stats (once more active)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miguelarchanjo&show_icons=true&theme=tokyonight)
 
@@ -43,4 +55,4 @@
 
 ## 🔭 Current Goal
 
-I'm building my path from **health & fitness to fullstack development**, sharing everything I learn along the way — and aiming to work remotely for global teams by 2026.
+I'm building my career transition from **health & fitness** to the **Data Science** and **Big Data** field, starting with **Python** as my main tool. My goal is to work **remotely for global teams by 2026**, applying data-driven solutions to real-world problems.
