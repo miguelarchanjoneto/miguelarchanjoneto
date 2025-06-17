@@ -8,7 +8,7 @@
 
 - 🎓 Background in **Nutrition** and **Physical Education**, with years of experience coaching international clients in health and performance.
 - 🧑‍💻 Currently studying **Python**, aiming to grow into the field of **Data Science** and **Machine Learning**.
-- 💡 Bringing discipline, consistency and data-driven thinking from my health background — now aplicando ao mundo da tecnologia.
+- 💡 Bringing discipline, consistency and data-driven thinking from my health background — now applied to the world of technology
 - 🛠️ Currently learning: **Python (logic, functions, loops, conditionals, data structures)**, with plans to advance into **Data Analysis**, **Pandas**, **NumPy**, and **Machine Learning** soon.
 - 🌍 Based in **Rio de Janeiro, Brazil** | Fluent in English 🇺🇸
 - 🏄 Surf, kitesurf and snowboard enthusiast | Advocate of the remote lifestyle and international work.
